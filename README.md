@@ -5,4 +5,4 @@
 ![codegirlcollection](./images/test.png)
 
 ## 恋するハッカソン
-[ショートヘア](./test.png/shorthair.py)
+[ショートヘア](./PAIZA1/shorthair.py)
